@@ -1,0 +1,4 @@
+prediction
+tripMode
+wearing
+FoodLoc
